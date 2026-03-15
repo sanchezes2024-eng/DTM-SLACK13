@@ -18,7 +18,7 @@ Aims to recreate the 2013 Slack style as best as it can.
   - Download DTM-SLACK13 via. the `ThemeRepo` plugin, which will move it to the `Themes` folder on its own.
 
 ### Vencord
-- Just copy and paste this link `https://raw.githubusercontent.com/davart154/DTM-18/main/dtm-18.theme.css` into the "Themes" option in Vencord's settings.
+- Just copy and paste this link `https://raw.githubusercontent.com/sanchezes2024-eng/DTM-SLACK13/refs/heads/main/dtm-slack13.theme.css` into the "Themes" option in Vencord's settings.
 
 ### Replugged
 Regular
